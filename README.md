@@ -31,6 +31,14 @@ This repo breaks down important SQL topics into easy-to-understand sections, wit
 - Aggregation Functions
 - Types of SQL Commands
 
+### Advanced SQL Concepts
+- Joins
+- Set Operators
+- Ranking Functions
+- CTE
+- Store Procedures
+- View
+   
 ---
 
 ## 🧰 Repository Structure
