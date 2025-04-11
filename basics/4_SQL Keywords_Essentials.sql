@@ -255,5 +255,5 @@ COMMIT;     -- Saves the changes
 -- ROLLBACK; -- Undoes changes if something goes wrong
 
 -- ================================================================
--- 🎉 THANK YOU FOR LEARNING SQL!
+-- 🎉 THANK YOU 
 -- ================================================================
