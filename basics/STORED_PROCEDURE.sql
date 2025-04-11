@@ -1,3 +1,10 @@
+-- ===============================================================
+-- Basic of SQL Explanation with Examples
+-- Author: Kavirajan S
+-- Description: Learn SQL Concepts and Commands with Practical Usage
+-- Suitable for: Beginner to intermediate using SQL Server
+-- ===============================================================
+
 -- =============================================================================
 -- 📘 FULLY ORGANIZED SQL STRUCTURE: STORED PROCEDURE
 -- =============================================================================
